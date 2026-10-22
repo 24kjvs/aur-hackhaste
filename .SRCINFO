@@ -1,0 +1,14 @@
+pkgbase = hackhaste
+	pkgdesc = HackHaste keyboard layout
+	pkgver = 0.2
+	pkgrel = 1
+	install = hackhaste.install
+	arch = any
+	license = MIT
+	depends = xkeyboard-config
+	depends = python
+	optdepends = kbd: Linux console maps
+	source = https://github.com/24kjvs/HackHaste/releases/download/v0.2/HackHaste-0.2-linux.tar.gz
+	sha256sums = 188c315fdd1447c7853b83e8095f0f31d9d727ee8024888fb17b43aa3cf2ff08
+
+pkgname = hackhaste
