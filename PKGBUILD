@@ -2,7 +2,7 @@
 pkgname=hackhaste
 pkgver=0.2
 pkgrel=1
-pkgdesc="HackHaste keyboard layout"
+pkgdesc="HackHaste syllabic kb. Left breathes UIAEO. Right works HRSTNP. 7890 on QWER."
 arch=('any')
 license=('MIT')
 depends=('xkeyboard-config' 'python')
